@@ -1,5 +1,3 @@
-[Site_Alvarez Ar.html](https://github.com/user-attachments/files/22264684/Site_Alvarez.Ar.html)
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
